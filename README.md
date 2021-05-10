@@ -9,7 +9,7 @@ Boolean
 Array
 Object
  -->
- 
+
 ## kelompokPengguna
 **tabel kelompokPengguna**
 
@@ -29,7 +29,7 @@ _id | kelompok | nama
 5 | 3 | perawat
 6 | 3 | doktor
 
-## Pengguna
+## pengguna
 **tabel pengguna**
 
 name | type | desc
@@ -46,3 +46,17 @@ saldoAkhir | `Number` | keterangan ...
 _id | nama | tanggalLahir | tempatLahir | saldoAwal | saldoAkhir
 --- | --- | --- | --- | --- | ---
 1 | andi | 2020/10/10 | pacitan | 0 | 0
+
+## wilayah
+**tabel wilayah**
+
+name | type | desc
+--- | --- | ---
+_id | `String` | keterangan ...
+kelompok | `String` | keterangan ...
+nama | `String` | keterangan ...
+
+**contoh data**
+_id | kelompok | nama 
+--- | --- | --- 
+1 | 0 | jawa timur 
