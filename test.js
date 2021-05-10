@@ -68,6 +68,10 @@
 // 1, 1, harta, 1000000, 0
 // 2, 1, modal, 0, 1000000
 
-// nosql
-// pouchdb => leveldb
-// 
+
+// back end: nodejs
+// front end: my
+// database: pouchdb
+// desktop app: electron
+// mobile app: cordova
+// infracode: github
