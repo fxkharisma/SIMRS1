@@ -6,6 +6,8 @@ String
 Number
 Date
 Boolean
+Array
+Object
  -->
  
 ## kelompokPengguna
