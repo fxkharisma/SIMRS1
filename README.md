@@ -1,4 +1,12 @@
 # SIMRS
+
+<!-- 
+Type data
+String
+Number
+Date
+Boolean
+ -->
  
 ## kelompokPengguna
 **tabel kelompokPengguna**
