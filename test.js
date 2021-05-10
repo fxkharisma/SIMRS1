@@ -7,17 +7,6 @@
 // 5, 3, perawat
 // 6, 3, doktor
 
-const kelompokPengguna = [
-    { _id: '1', kelompok: '0', nama: 'karyawan' },
-    { _id: '2', kelompok: '0', nama: 'pelanggan' },
-    { _id: '3', kelompok: '1', nama: 'non medis' },
-    { _id: '4', kelompok: '1', nama: 'medis' },
-    { _id: '5', kelompok: '3', nama: 'perawat' },
-    { _id: '6', kelompok: '3', nama: 'doktor' },
-]
-
-console.table(kelompokPengguna)
-
 // pengguna
 // _id, nama, tanggalLahir, tempatLahir, saldoAwal, saldoAkhir
 
